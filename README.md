@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rehmeier
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
+- 👀 I’m interested in ... Bot's And servers also infrastructure and generel programming
+- 🌱 I’m currently learning ... C# C++ JS Python PHP LUA Powershell HTML Binary.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord 
+- 📫 How to reach me ... discord = ATLANTASARK#6791
 
 <!---
 Rehmeier/Rehmeier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
