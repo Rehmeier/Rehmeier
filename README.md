@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Rehmeier
-- 👀 I’m interested in ... Bot's And servers also infrastructure and generel programming
-- 🌱 I’m currently learning ... HTML/CSS & JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord = ATLANTASARK
+# 👋 Hi, I'm @Rehmeier
 
-<!---
-Rehmeier/Rehmeier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+I'm a 25-year-old tech enthusiast with a strong interest in bots, servers, infrastructure, and general programming. I love exploring both software and hardware, and I'm always on the lookout for new things to build and learn.
+
+## 🌱 Currently Learning
+I'm diving into web development and currently learning HTML, CSS, and JavaScript.
+
+## 🤝 Looking to Collaborate
+I'm open to collaborating on interesting projects involving bots, server setups, automation, or anything that sparks creativity!
+
+## 📫 How to Reach Me
+Feel free to reach out on Discord: **ATLANTASARK**
