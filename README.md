@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Rehmeier
+# 👋 Hi, I'm Anders
 
 ## 👀 About Me
 I'm a 25-year-old tech enthusiast with a strong interest in bots, servers, infrastructure, and general programming. I love exploring both software and hardware, and I'm always on the lookout for new things to build and learn.
