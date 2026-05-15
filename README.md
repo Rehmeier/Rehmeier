@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo.png" width="130" alt="Rehmeier Solutions Logo"/>
-
 # Anders Rehmeier
 
 ### Grundlægger & Ejer af Rehmeier Solutions  
